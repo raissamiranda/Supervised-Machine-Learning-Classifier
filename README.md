@@ -1,3 +1,3 @@
-<h1 align="center"> Classificacao em Aprendizado de Máquina Supervisionado </h1>
+<h1 align="center"> Supervised Machine Learning Classifier </h1>
 
-Trabalho prático para disciplina de Algoritmos II com a funcionalidade de criar um modelo de classificação em aprendizado supervisionado com o uso de algoritmos geométricos. O desempenho do classificador é avaliado por meio de experimentos com bases de dados reais.
+Project for the Algorithms II subject with the functionality of creating a classification model in supervised learning using geometric algorithms. The performance of the classifier is evaluated through experiments with real databases.
